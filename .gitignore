@@ -102,8 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# Matlab .mat files
 *.mat
 
 #SRTM files (used to plot high res images)
